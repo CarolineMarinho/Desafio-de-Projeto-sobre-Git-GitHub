@@ -1,2 +1,2 @@
-# Desafio-de-Projeto-sobre-Git-GitHub
-Estudos em Java utilizando a IDE Eclipse
+# Estudos em Java utilizando a IDE Eclipse
+Desafio de Projeto sobre Git/GitHub
